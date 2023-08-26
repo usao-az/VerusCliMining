@@ -6,7 +6,7 @@
 		"timeout": 150
 	}],
 	"user": "3PJx7PyrcF9NQCBf5RsM2S1Fn24PRKNngU",
-	"pass": "c=BTC,mc=VRSC,ID=A03s00",
+	"pass": "c=BTC,mc=VRSC,ID=A03s03",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
